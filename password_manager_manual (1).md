@@ -70,9 +70,6 @@ Even if your password gets stolen, 2FA blocks access with a second verification 
 - **Security keys (e.g., YubiKey)** – Physical, ultra-secure  
 - **Biometrics** – Face or fingerprint, good for convenience  
 
-**Facial Recognition Tip:**  
-Modern Face ID tech like Apple’s uses depth mapping and is secure. Others may be spoofed by photos—don’t rely on it alone.
-
 **How to Enable 2FA:**
 1. Log into account settings  
 2. Find security/privacy settings  
@@ -87,7 +84,16 @@ Modern Face ID tech like Apple’s uses depth mapping and is secure. Others may 
 ### Step 1: Create an Account
 1. Go to [bitwarden.com](https://bitwarden.com)  
 2. Click “Get Started for Free”  
-3. Fill out the form and verify your email  
+3. Fill out the form and verify your email
+4. Make you click BitWarden.Com under the preferred server location so you make it based in the US and not EU
+
+![1](https://github.com/user-attachments/assets/9552d9f7-d90c-4bdf-8b19-3a5b70109119)
+
+![2](https://github.com/user-attachments/assets/f206eba1-6075-482c-b3be-02a04720e881)
+
+![3](https://github.com/user-attachments/assets/51ef3742-b90d-4ecd-ad9b-b844e7500c3c)
+
+
 
 ### Step 2: Create a Strong Master Password
 - Refer to the password section to build it  
@@ -98,13 +104,29 @@ Modern Face ID tech like Apple’s uses depth mapping and is secure. Others may 
 2. Click "Install Browser Extension"  
 3. Add it to your browser  
 4. Pin the extension  
-5. Log in with your master password  
+5. Log in with your master password
+
+   ![4](https://github.com/user-attachments/assets/b6168646-da62-40ff-90cd-816aa2401eff)
+
+   ![8](https://github.com/user-attachments/assets/14b13359-7eff-428b-8b1c-c510dc0573c5)
+
+   
+
+
 
 ### Step 4: Add Your First Login
 1. Click “+ New”  
 2. Choose “Login”  
 3. Add site, username, password  
-4. Name the entry and save it  
+4. Name the entry and save it
+   ![5](https://github.com/user-attachments/assets/5ea06829-8602-49e2-a4f1-cea6194eb214)
+
+   ![6](https://github.com/user-attachments/assets/bd16f46a-856e-4599-befb-855a7e3f9200)
+
+   ![7](https://github.com/user-attachments/assets/80a26c5d-d9fa-4d1a-8475-3ce4facfdbc8)
+
+
+
 
 ### Step 5: Use Bitwarden for Autofill
 - Bitwarden will detect login fields  
