@@ -30,13 +30,13 @@ Password managers store your credentials in an encrypted vault so you can use st
 **Why They're Useful:**
 - One strong master password unlocks them all  
 - Automatically generates secure passwords  
-- Auto-fills only on real websites  
+- Autofills only on real websites  
 - Can store credit cards, notes, license keys  
 
 **Recommended Tools:**
-- **Bitwarden** – Free, open source, beginner-friendly  
+- **Bitwarden** – Free, open source, beginner friendly  
 - **1Password** – Slick design, pro features  
-- **LastPass** – Well-known, but has had security issues  
+- **LastPass** – Well known, but has had security issues  
 - **KeePass** – Offline and customizable  
 
 **Key Features:**
@@ -67,7 +67,7 @@ Even if your password gets stolen, 2FA blocks access with a second verification 
 **Common 2FA Methods:**
 - **Text codes** – Convenient but vulnerable to SIM swaps  
 - **Authenticator apps** – Safer than SMS, works offline  
-- **Security keys (e.g., YubiKey)** – Physical, ultra-secure  
+- **Security keys (e.g., YubiKey)** – Physical, ultra, secure  
 - **Biometrics** – Face or fingerprint, good for convenience  
 
 **How to Enable 2FA:**
@@ -181,6 +181,25 @@ Definitely use it on email, banking, and social media.
 **Can Bitwarden be hacked?**  
 It’s encrypted, and only your master password can unlock your data.
 
+If you’ve enabled 2FA, make sure that’s backed up too.
+
+**Do I need different password managers for work and personal accounts?**  
+It’s smart to keep them separate if your job gives you one. Bitwarden lets you create folders to help organize things too.  
+
+**Can I import passwords I already have saved in Chrome or another browser?**  
+Yep. Most password managers, including Bitwarden, let you import existing saved logins from browsers or CSV files.  
+
+**What’s the best 2FA method?**  
+Authenticator apps like Google Authenticator or Authy are solid. Security keys like YubiKey are even better. Avoid SMS if possible.  
+
+**Is it safe to save my master password anywhere?**  
+Only if it’s offline and locked up—like written on paper in a fireproof safe. Never store it in your Notes app or cloud storage.  
+
+**What if I switch phones or computers?**  
+Just install your password manager app again and log in with your master password. If you’ve enabled 2FA, make sure that’s backed up too.
+
+
+
 ## Final Words
 
-This guide is for anyone who wants to stay safe online without being a tech expert. Use strong passwords, store them smartly, and enable 2FA. Cybersecurity doesn’t have to be complicated—just consistent.
+This guide is for anyone who wants to stay safe online without being a tech expert. Use strong passwords, store them smartly, and enable 2FA. Cybersecurity doesn’t have to be complicated just consistent.
